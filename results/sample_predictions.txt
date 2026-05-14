@@ -1,0 +1,30 @@
+Text: I need information about the payment process. My ticket number is 78732. Please respond as soon as possible.
+Predicted Label: neutral
+--------------------------------------------------
+Text: I need information about the payment process.
+Predicted Label: positive
+--------------------------------------------------
+Text: The refund process was fast and convenient. I appreciate the quick response.
+Predicted Label: neutral
+--------------------------------------------------
+Text: My refund is still pending and this experience is frustrating. My ticket number is 33927.
+Predicted Label: negative
+--------------------------------------------------
+Text: Please tell me how to update my account details.
+Predicted Label: negative
+--------------------------------------------------
+Text: I need help finding the invoice for my last order. Please respond as soon as possible.
+Predicted Label: negative
+--------------------------------------------------
+Text: I am satisfied with the plan and would recommend it to others. My ticket number is 99198.
+Predicted Label: negative
+--------------------------------------------------
+Text: I want to understand the warranty terms for this product.
+Predicted Label: neutral
+--------------------------------------------------
+Text: I need help finding the invoice for my last order.
+Predicted Label: negative
+--------------------------------------------------
+Text: My refund is still pending and this experience is frustrating.
+Predicted Label: negative
+--------------------------------------------------
