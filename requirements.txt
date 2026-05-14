@@ -1,0 +1,12 @@
+
+---
+
+## requirements.txt
+
+```text
+pandas
+numpy
+nltk
+scikit-learn
+tensorflow
+matplotlib
